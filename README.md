@@ -49,9 +49,4 @@ For more information, see https://www.tortilla.academy/ and https://www.npmjs.co
 
 [//]: # "foot-start"
 [{]: helper "navStep"
-
-| [Begin Tutorial >](.tortilla/manuals/views/step1.md) |
-| ---------------------------------------------------: |
-
-
 [}]: #
